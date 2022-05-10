@@ -1,9 +1,9 @@
 # ASPNetCoreAndPostgresql
 
-Esse projeto é um desafio do curso do professor Bruno Horonato, pra nos introduzir como criar teste unitários em uma API.
+This project is a challenge of the course of Professor Bruno Horonato, to introduce us how to create unit tests in an API.
 
-Foi utilizado para este projeto:
-  - C#;
-  - Asp.Net Core 3.1;
-  - MsTest;
-  - Migrations.
+It was used for this project: 
+- C#;   
+- Asp.Net Core 3.1;  
+- MsTest;   
+- Migrations.
